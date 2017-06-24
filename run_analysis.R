@@ -32,7 +32,7 @@ dataColumns <- grep("std|mean", dataFeatures$V2)
 columnNames <- dataFeatures[dataColumns, 2]
 columnNames <- gsub('-mean', 'Mean', columnNames, fixed = TRUE)
 columnNames <- gsub('-std', 'Std', columnNames, fixed = TRUE)
-columnNames <- gsub('()', 'Std', columnNames, fixed = TRUE)
+columnNames <- gsub('()', '', columnNames, fixed = TRUE)
 
 # Add subject and activity
 columnNames <- c('Subject', 'Activity', columnNames)
