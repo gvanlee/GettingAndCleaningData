@@ -1,0 +1,59 @@
+
+Variables in TIDY.TXT
+=====================
+
+Activity
+    LAYING              Subject was laying down
+    SITTING             Subject was sitting down
+    STANDING            Subject was standing still
+    WALKING             Subject was walking
+    WALKING_DOWNSTAIRS  Subject was walking down stairs
+    WALKING_UPSTAIRS    Subject was walking up stairs
+        
+Subject
+    1 to 30
+
+tBodyAccMeanStd-XYZ
+tBodyAccStdStd-XYZ
+tGravityAccMeanStd-XYZ
+tGravityAccStdStd-XYZ
+tBodyAccJerkMeanStd-XYZ
+tBodyAccJerkStdStd-XYZ
+tBodyGyroMeanStd-XYZ
+tBodyGyroStdStd-XYZ
+tBodyGyroJerkMeanStd-XYZ
+tBodyGyroJerkStdStd-XYZ
+
+fBodyAccMeanStd-XYZ
+fBodyAccStdStd-XYZ
+fBodyAccMeanFreqStd-XYZ
+fBodyAccJerkMeanStd-XYZ
+fBodyAccJerkStdStd-XYZ
+fBodyAccJerkMeanFreqStd-XYZ
+fBodyGyroMeanStd-XYZ
+fBodyGyroStdStd-XYZ
+fBodyGyroMeanFreqStd-XYZ
+
+tBodyAccMagMeanStd
+tBodyAccMagStdStd
+tGravityAccMagMeanStd
+tGravityAccMagStdStd
+tBodyAccJerkMagMeanStd
+tBodyAccJerkMagStdStd
+tBodyGyroMagMeanStd
+tBodyGyroMagStdStd
+tBodyGyroJerkMagMeanStd
+tBodyGyroJerkMagStdStd
+
+fBodyAccMagMeanStd
+fBodyAccMagStdStd
+fBodyAccMagMeanFreqStd
+fBodyBodyAccJerkMagMeanStd
+fBodyBodyAccJerkMagStdStd
+fBodyBodyAccJerkMagMeanFreqStd
+fBodyBodyGyroMagMeanStd
+fBodyBodyGyroMagStdStd
+fBodyBodyGyroMagMeanFreqStd
+fBodyBodyGyroJerkMagMeanStd
+fBodyBodyGyroJerkMagStdStd
+fBodyBodyGyroJerkMagMeanFreqStd
